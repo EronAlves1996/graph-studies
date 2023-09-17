@@ -95,7 +95,8 @@ class Source {
 
 ```
 
-Problem has time complexity O(logn).
+Problem has time complexity O(n²).
+Problem has space complexity O(n).
 
 ## Acyclic graphs
 
